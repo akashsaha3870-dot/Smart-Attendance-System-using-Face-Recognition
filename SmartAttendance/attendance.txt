@@ -1,0 +1,6 @@
+===== ATTENDANCE REPORT =====
+Total Classes: 0
+
+ID: 101 | Name: Akash | Present: 0 | Percentage: 0.00%
+ID: 102 | Name: Rahul | Present: 0 | Percentage: 0.00%
+ID: 103 | Name: Priya | Present: 0 | Percentage: 0.00%
